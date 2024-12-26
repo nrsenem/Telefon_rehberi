@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1735225449 source:c:\users\nrsen\desktop\telefon_rehberi\telefon_rehberi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	"menu.h"
+	"telefon_ara.h"
+	"telefonekle.h"
+	"telefonlistele.h"
+
+1735202074 c:\users\nrsen\desktop\telefon_rehberi\telefon_rehberi\header.h
+
+1735200751 c:\users\nrsen\desktop\telefon_rehberi\telefon_rehberi\menu.h
+
+1735225580 c:\users\nrsen\desktop\telefon_rehberi\telefon_rehberi\telefon_ara.h
+
+1735203604 c:\users\nrsen\desktop\telefon_rehberi\telefon_rehberi\telefonekle.h
+
+1735224249 c:\users\nrsen\desktop\telefon_rehberi\telefon_rehberi\telefonlistele.h
+
